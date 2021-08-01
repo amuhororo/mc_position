@@ -1,10 +1,8 @@
-;【吹き出しプラグイン Ver.0.02】
-; 2021/07/22更新　v507b対応版
+;【position機能追加プラグイン Ver.1.00】
+; 2021/08/01更新　v507c対応版
 ; by hororo http://hororo.wp.xdomain.jp/
 
-[loadjs storage="plugin/mc_position/mc_position.js"]
-;[loadcss file="./data/others/plugin/mc_position/mc_position.css"]
-
+[loadjs storage="plugin/position_addfn/position_addfn.js"]
 
 [macro name="mc_position"]
 	[iscript]
